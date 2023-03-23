@@ -1,0 +1,64 @@
+.bg {
+    background-image: url('Kaaba.jpg');
+    height: 10vh;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+#title {
+    text-align: center;
+    color:
+    green;
+}
+
+#paragraph {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-right: 150px;
+    margin-left: 80px;
+    font-size: 20px;
+    margin: 1;
+    text-indent : 25px;
+}
+#title {
+    text-align: center;
+    text-shadow: 3px 5px 10px #485480;
+    font-size: 110px;
+}
+
+#cool {
+    text-align: center;
+    font-size: 10vw;
+    /* make our h1 tag larger */
+    font-family: sans-serif;
+    /* choosing our font */
+  background-image: url('https://lh3.googleusercontent.com/p/AF1QipMwUwg-4lTf2DGBJj3O3ZtfjH7v10MUAW9VolwA=s1360-w1360-h1020');
+    /* you can change the colors based on your preference */
+    background-clip: text;
+    /*add this line, it defines how far the background should extend within an element, here we set it to text */
+    -webkit-background-clip: text;
+    /* add this line, for browsers compatibility */
+    -webkit-text-fill-color: transparent;
+    text-shadow: 2px 2px 3px violet;
+}
+
+#loca {
+    color:white;
+    text-align:center;
+    font-size: 25px;
+    text-shadow: 2px 2px 3px black;
+}
+.aa {
+    background-image: url('back.jpeg');
+    height: 10vh;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.zx {
+    background-image: url('https://www.macmillandictionary.com/external/slideshow/thumb/Grey_thumb.png');
+    height: 10vh;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
